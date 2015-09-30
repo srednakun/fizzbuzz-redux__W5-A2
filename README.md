@@ -31,3 +31,5 @@ Work on this individually. Fork this repository and submit a pull-request back t
 **DO NOT** fence yourself in with invisible constraints. Unless it is
 specifically listed and/or we discussed it in lecture, there is not an
 expectation to meet an objective that has not been set.
+
+author:Sredna Kunowski 9/30/15
